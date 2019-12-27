@@ -11,11 +11,12 @@
 
 
 To download the apk for android click the link below
-[LavaRush APK](https://drive.google.com/open?id=1sT7BUiK2HS0DelKrsYJEMLQUptp8CvZN)
-
 
 
 ```
+
+
+[LavaRush APK](https://drive.google.com/open?id=1sT7BUiK2HS0DelKrsYJEMLQUptp8CvZN)
 
 
 ```
