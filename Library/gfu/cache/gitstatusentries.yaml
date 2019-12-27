@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-12-27T11:16:06.186+05:30
+  initializedAtString: 2019-12-27T11:10:36.978+05:30
+  entries:
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: F:\uni\Test\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\ProcessJobs\27d4c43163fef51fcfc0e6df90bda2e4.bakert
+    fullPath: F:\uni\Test\Temp\ProcessJobs\27d4c43163fef51fcfc0e6df90bda2e4.bakert
+    projectPath: Temp\ProcessJobs\27d4c43163fef51fcfc0e6df90bda2e4.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\ProcessJobs\454dd955cdd7c426af7e3c71990f3ece.bakert
+    fullPath: F:\uni\Test\Temp\ProcessJobs\454dd955cdd7c426af7e3c71990f3ece.bakert
+    projectPath: Temp\ProcessJobs\454dd955cdd7c426af7e3c71990f3ece.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: F:\uni\Test\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: F:\uni\Test\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityTempFile-056aabd7b1b3e9842874b49fb9bbbef0
+    fullPath: F:\uni\Test\Temp\UnityTempFile-056aabd7b1b3e9842874b49fb9bbbef0
+    projectPath: Temp\UnityTempFile-056aabd7b1b3e9842874b49fb9bbbef0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-7322afce1cf01024eb5ab8967ef439d3
+    fullPath: F:\uni\Test\Temp\UnityTempFile-7322afce1cf01024eb5ab8967ef439d3
+    projectPath: Temp\UnityTempFile-7322afce1cf01024eb5ab8967ef439d3
+    originalPath: 
+    status: 5
+    staged: 0
