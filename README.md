@@ -1,7 +1,7 @@
 ```
 
 
-#lavathon an experiment 3D game created for solving boredom with unity3D engine
+Lavathon an experiment 3D game created for solving boredom with unity3D engine
 
 
 ```
