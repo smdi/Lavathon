@@ -1,7 +1,7 @@
 ```
 
 
-#lavarush a experiment 3D game created for solving boredom with unity3D engine
+#lavathon an experiment 3D game created for solving boredom with unity3D engine
 
 
 ```
